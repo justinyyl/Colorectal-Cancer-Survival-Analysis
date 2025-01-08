@@ -46,5 +46,5 @@ The dataset contains clinical information, tumor characteristics, and treatment 
 ---
 
 ## Tools
-- Python libraries: `pandas`, `numpy`, `matplotlib`, `lifelines`.
+- Python libraries: `pandas`, `numpy`, `sklearn`, `matplotlib`, `lifelines`.
 - Quarto: render `HTML`
