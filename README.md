@@ -36,11 +36,11 @@ The dataset contains clinical information, tumor characteristics, and treatment 
   - Higher Dukes stages significantly increase the risk of recurrence or death, emphasizing disease severity as a major factor.
   - Patients with **Stage 0 or 1** demonstrate the best survival outcomes, with survival curves showing clear separation between stages.
 
-- **Adj_Radio (Radiotherapy)**:
+- **Radiotherapy (Adj_Radio)**:
   - Radiotherapy is associated with a significant reduction in hazard, improving disease-free survival (DFS).
   - Patients receiving radiotherapy demonstrate consistently higher survival probabilities across all time points.
 
-- **Adj_Chem (Chemotherapy)**:
+- **Chemotherapy (Adj_Chem)**:
   - Chemotherapy shows limited impact on DFS in this dataset, with minimal differences in survival probabilities between treated and untreated groups.
 
 ---
